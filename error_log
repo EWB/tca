@@ -1,0 +1,1 @@
+[22-Mar-2016 18:08:57 UTC] Uncaught PHP Exception Exception: "The configuration directory type 'sync' does not exist" at /home/meadowsw/public_html/btv/core/includes/bootstrap.inc line 154
